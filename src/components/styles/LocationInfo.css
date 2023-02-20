@@ -1,0 +1,25 @@
+.locationInfo {
+    color: white;
+    display: grid;
+    background-color: #062226;
+    align-items: center;
+    height: 100px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.locationInfo__list {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.locationInfo__item {
+    margin: 20px auto;
+    font-style: normal;
+    font-size: 12px;
+}
+
+.locationInfo__item span {
+    font-size: 20px;
+}

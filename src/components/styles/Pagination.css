@@ -1,0 +1,22 @@
+.pagination {
+    color: white;
+    display: flex;
+    justify-items: center;
+    margin: 5px;
+
+}
+
+.pagination li {
+    margin: 15px;
+    width: 97px ;
+    height: 40px;
+    font-size: 2rem;
+    background-color: #062226;
+    border-radius: 10%;
+    
+}
+
+.pagination li:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(45, 219, 10);
+}
